@@ -1,0 +1,10 @@
+ChestDrop - Instantly Relocate Your Inventory To A Chest Using One Command
+Version: v1.0
+
+After installing ChestDrop, whenever a user with the Permissions node "ChestDrop.use", or an OP, types in /store, his/her entire inventory will be stored in one or two chests that spawn where the player is currently looking.
+
+Features:
+Stores entire inventory into a chest on command.
+Supports the latest Permissions plugin!
+
+http://forums.bukkit.org/threads/gen-misc-chestdrop-v1-0-put-your-inventory-into-a-chest-using-a-command-permissions-1000.29635/
