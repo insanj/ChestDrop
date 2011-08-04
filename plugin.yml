@@ -1,0 +1,12 @@
+name: ChestDrop
+version: 1.0
+author: insanj
+main: me.insanj.ChestDrop.ChestDrop
+description: Stores the users inventory into a newly generated chest where they are looking.
+website:
+
+commands:
+  store:
+    permissions: ChestDrop.use
+    description: Stores inventory in chest.
+    usage: /<command>
